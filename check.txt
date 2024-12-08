@@ -1,2 +1,2 @@
 Check the text file
-name:none
+name:dnice
